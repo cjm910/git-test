@@ -5,6 +5,6 @@
 public class gitTest01 {
     public static void main(String[] args) {
         System.out.println("master01");
-        System.out.println("master0");
+        System.out.println("master02");
     }
 }

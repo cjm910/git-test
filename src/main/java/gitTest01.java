@@ -6,7 +6,7 @@ public class gitTest01 {
     public static void main(String[] args) {
         System.out.println("git-test01");
         System.out.println("git-test02");
-        System.out.println("git-test03");
+
         System.out.println("hot-fix01");
         System.out.println("hot-fix02");
     }
